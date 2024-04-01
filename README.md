@@ -1,6 +1,6 @@
-# REG NO:212223220084
-# NAME: RAMKUMAR G
-#  Mean and variance of a discrete  distribution
+                                                                            REG NO:212223220084
+                                                                            NAME: RAMKUMAR G
+#  EX-1:Mean and variance of a discrete  distribution
 
 
 # Aim : 
